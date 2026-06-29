@@ -1,2 +1,2 @@
 # miniproject1
-miniproject using Html, Css, Js
+AKGEC SI - miniproject using Html, Css, Js
